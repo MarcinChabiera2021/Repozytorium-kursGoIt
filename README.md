@@ -1,1 +1,1 @@
-# Repozytorium-kursGoIt
+Repozytorium-kursGoIt
